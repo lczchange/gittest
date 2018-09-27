@@ -6,5 +6,6 @@ public class TestGit {
     @Test
     public void test1(){
         System.out.println("test Git");
+        System.out.println("第二次提交");
     }
 }
